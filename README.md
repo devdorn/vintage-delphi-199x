@@ -31,5 +31,9 @@ I have opened my "Code Box" and am now storing rare code snippets and files for 
 ## Contributing
 This project is open source, but Pull Requests are not accepted. If you wish to modify the code or add features, please fork the repository.
 
+## Status
+
+**Archived / Legacy**. This project is preserved for historical and sentimental reasons. It is not currently under active development.
+
 ## License
 [MIT](LICENSE) © 2026 Bernhard Dorn
