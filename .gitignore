@@ -1,0 +1,15 @@
+# Delphi ignore files
+*.dcu
+*.~*
+*.dsk
+*.cfg
+*.dof
+*.exe
+*.obj
+*.o
+*.bak
+*.bak*
+
+# OS files
+.DS_Store
+Thumbs.db
